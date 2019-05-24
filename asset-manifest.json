@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.b6e57b03.chunk.css",
-    "main.js": "./static/js/main.db647dbb.chunk.js",
-    "main.js.map": "./static/js/main.db647dbb.chunk.js.map",
-    "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
-    "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
-    "static/css/2.22a7d4ef.chunk.css": "./static/css/2.22a7d4ef.chunk.css",
-    "static/js/2.db4a4140.chunk.js": "./static/js/2.db4a4140.chunk.js",
-    "static/js/2.db4a4140.chunk.js.map": "./static/js/2.db4a4140.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.65e390abf0a3a6e46c4e08451084f59a.js": "./precache-manifest.65e390abf0a3a6e46c4e08451084f59a.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/2.22a7d4ef.chunk.css.map": "./static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.b6e57b03.chunk.css.map": "./static/css/main.b6e57b03.chunk.css.map"
+    "main.css": "/moholers-gitcards/static/css/main.b6e57b03.chunk.css",
+    "main.js": "/moholers-gitcards/static/js/main.e7a9495e.chunk.js",
+    "main.js.map": "/moholers-gitcards/static/js/main.e7a9495e.chunk.js.map",
+    "runtime~main.js": "/moholers-gitcards/static/js/runtime~main.81189d9b.js",
+    "runtime~main.js.map": "/moholers-gitcards/static/js/runtime~main.81189d9b.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/moholers-gitcards/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.db4a4140.chunk.js": "/moholers-gitcards/static/js/2.db4a4140.chunk.js",
+    "static/js/2.db4a4140.chunk.js.map": "/moholers-gitcards/static/js/2.db4a4140.chunk.js.map",
+    "index.html": "/moholers-gitcards/index.html",
+    "precache-manifest.f15efbb6e4a0f29051571029787643a7.js": "/moholers-gitcards/precache-manifest.f15efbb6e4a0f29051571029787643a7.js",
+    "service-worker.js": "/moholers-gitcards/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/moholers-gitcards/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.b6e57b03.chunk.css.map": "/moholers-gitcards/static/css/main.b6e57b03.chunk.css.map"
   }
 }

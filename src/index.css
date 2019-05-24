@@ -11,3 +11,38 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.container {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.container > section {
+  display: grid;
+  grid-row-gap: 20px;
+}
+
+.card article {
+  display: grid;
+  grid-template-columns: 50px 1fr;
+}
+
+.card article img {
+  width: 100%;
+}
+
+.card .buttons {
+  display: grid;
+  grid-row-gap: 10px;
+}
+
+.card .buttons a {
+  display: block;
+}
+
+@media (min-width: 768px) {
+  .container > section {
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 20px;
+  }
+}

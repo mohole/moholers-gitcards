@@ -1,3 +1,5 @@
+@import './card.css';
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -22,18 +24,8 @@ code {
   grid-row-gap: 20px;
 }
 
-.card article {
-  display: grid;
-  grid-template-columns: 50px 1fr;
-}
-
-.card article img {
-  width: 100%;
-}
-
-.card .buttons {
-  display: grid;
-  grid-row-gap: 10px;
+.container h1 {
+  margin-bottom: 30px;
 }
 
 .card .buttons a {

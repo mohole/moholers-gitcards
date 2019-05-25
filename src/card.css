@@ -1,0 +1,53 @@
+
+.card {
+  box-shadow: 0px 0px 7px rgba(0,0,0, 0.1);
+  transition: all 0.3s ease;
+}
+
+.card:hover {
+  /* cursor: pointer; */
+  box-shadow: 0px 0px 12px rgba(0,0,0, 0.2);
+}
+
+.card article {
+  display: grid;
+  grid-template-columns: 50px 1fr;
+  grid-column-gap: 10px;
+}
+
+.card article img {
+  width: 100%;
+  border-radius: 5px;
+}
+
+.card .buttons {
+  display: grid;
+  grid-row-gap: 10px;
+}
+
+/* https://cssfx.dev/ */
+.card {
+  z-index: 1;
+  position: relative;
+  font-size: inherit;
+  font-family: inherit;
+  outline: none;
+  border: none;
+  overflow: hidden;
+}
+
+.card::after {
+  content: '';
+  z-index: -1;
+  background-color: rgba(0, 123, 255, 0.1);
+  position: absolute;
+  top: -82%;
+  bottom: -50%;
+  width: 4.65em;
+  transform: translateX(-525%) rotate(35deg);
+}
+
+.card:hover::after {
+  transition: transform 0.55s ease-in-out;
+  transform: translateX(650%) rotate(35deg);
+}

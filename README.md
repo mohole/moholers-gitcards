@@ -2,6 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Requirements
+* [Node.js](https://nodejs.org) 10+
+* [React dev tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+* [Git](https://git-scm.com/)
+* [Yarn](https://yarnpkg.com/en/)
+
+## What's being used
+* React (*functional components + hooks*)
+* Typescript
+* Bootstrap (*+ regular CSS*)
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -28,6 +39,9 @@ The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run deploy`
+Execute the `npm run build` task and then publish the `build` folder on Github Pages. 
 
 ### `npm run eject`
 

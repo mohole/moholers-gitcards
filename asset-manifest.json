@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/moholers-gitcards/static/css/main.b6e57b03.chunk.css",
+    "main.css": "/moholers-gitcards/static/css/main.756d1805.chunk.css",
     "main.js": "/moholers-gitcards/static/js/main.e7a9495e.chunk.js",
     "main.js.map": "/moholers-gitcards/static/js/main.e7a9495e.chunk.js.map",
     "runtime~main.js": "/moholers-gitcards/static/js/runtime~main.81189d9b.js",
@@ -9,9 +9,9 @@
     "static/js/2.db4a4140.chunk.js": "/moholers-gitcards/static/js/2.db4a4140.chunk.js",
     "static/js/2.db4a4140.chunk.js.map": "/moholers-gitcards/static/js/2.db4a4140.chunk.js.map",
     "index.html": "/moholers-gitcards/index.html",
-    "precache-manifest.f15efbb6e4a0f29051571029787643a7.js": "/moholers-gitcards/precache-manifest.f15efbb6e4a0f29051571029787643a7.js",
+    "precache-manifest.1256ff6e63ca71d61a5142ad1fec9bd8.js": "/moholers-gitcards/precache-manifest.1256ff6e63ca71d61a5142ad1fec9bd8.js",
     "service-worker.js": "/moholers-gitcards/service-worker.js",
     "static/css/2.22a7d4ef.chunk.css.map": "/moholers-gitcards/static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.b6e57b03.chunk.css.map": "/moholers-gitcards/static/css/main.b6e57b03.chunk.css.map"
+    "static/css/main.756d1805.chunk.css.map": "/moholers-gitcards/static/css/main.756d1805.chunk.css.map"
   }
 }

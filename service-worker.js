@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/moholers-gitcards/precache-manifest.f15efbb6e4a0f29051571029787643a7.js"
+  "/moholers-gitcards/precache-manifest.1256ff6e63ca71d61a5142ad1fec9bd8.js"
 );
 
 self.addEventListener('message', (event) => {
